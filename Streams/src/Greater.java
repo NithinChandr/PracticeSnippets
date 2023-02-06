@@ -1,6 +1,5 @@
 //Write a Java 8 program to find the number of Strings in a list whose length is greater than 5?
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
